@@ -6,3 +6,5 @@ Hei hoi kauki tavallista
 **Boldia**
 
 Lisäillään tänne jotain
+
+Tehdään vielä paikallisesti lisäys!
