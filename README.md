@@ -8,3 +8,5 @@ Hei hoi kauki tavallista
 Lisäillään tänne jotain
 
 Tehdään vielä paikallisesti lisäys!
+
+Tehdään paikallisesti toiseen tiedstoon konfliktin aiheuttava muutos.
