@@ -1,0 +1,94 @@
+commit 658d6ffdb499d12a35428607becd71cb755173e0
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 13:15:15 2020 +0200
+
+    delete ja rename
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 341ef7d7420e37eef0cef069ff94411ebd37b2df
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 13:07:23 2020 +0200
+
+    lisätty fileet
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 319addd35394f25452a4090396def39ac10a8072
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 12:37:19 2020 +0200
+
+    muutettu ekaa ja kolmasta
+
+ eka.txt    | 6 ++++--
+ kolmas.txt | 1 +
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+commit bc4c1a17f61733a9f80565cc9d85c06d682c87fe
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 12:26:32 2020 +0200
+
+    muutettu tiedoston nimeä
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 16d06ea3e60ac445c79c3d58602e402d0fcd794b
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 12:19:40 2020 +0200
+
+    Poistettu tiedosto nro 2
+
+ tiedosto2.txt | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit 7aa8d6930f92d8a451352297046889072b27f103
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 12:15:52 2020 +0200
+
+    Lisättty teksitiä
+
+ tiedosto.txt | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 0d2dae574b4299b2803ec4ab533dc23c89ccbda0
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 00:23:20 2020 +0200
+
+    lisätty ja modattu tiedostoja
+
+ tiedosto2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 43fadabd8e1394bb780fd3d2b19441657716eeed
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 00:22:51 2020 +0200
+
+    lisätty ja modattu tiedostoja
+
+ kolmas.txt       | 0
+ stuff/neljas.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 199e426e05e53f7660af94e359620c352b840d13
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 00:11:43 2020 +0200
+
+    lisätty toka
+
+ tiedosto2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f48391eda703d211b74c7ede5c83c0551ecdbb17
+Author: samppa77 <sluukkai@gmail.com>
+Date:   Sat Jan 25 00:09:43 2020 +0200
+
+    lisätty eka tiedosto
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
