@@ -92,3 +92,5 @@ Date:   Sat Jan 25 00:09:43 2020 +0200
 
  tiedosto.txt | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
+
+TEHDÄÄN KONFILKTIN (eri tiedostoihin) AIHEUTTAVA LISÄYS GITHUBIIN
